@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a second-year BCA student with a strong interest in data analytics and software testing. I enjoy learning new technologies and working with passionate and aspirational students. I am actively looking for opportunities to gain practical experience, improve my skills, and contribute to real-world projects.
+I am a second-year BCA student with a strong interest in data analytics and software testing. I enjoy learning new technologies and working with passionate and aspirational students. I am actively looking for opportunities to gain practical experience, improve my skills, and contribute to real-world projects
 
 
 ## 🌐 Socials:
